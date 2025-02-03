@@ -1,1 +1,3 @@
-dicas **de estudo**
+- a primeira e mais óbvia dica é sempre focar na matéria que tem mais peso. Pra medicina isso não importa muito, mas se você quiser engenharia por exemplo, algumas engenharias chegam a peso 4 em matemática.
+- não existe segredo. Quando você estiver no tiktok e ver alguém falando de uma estratégia de estudo mágica, eu recomendo tentar mas não é improvável q seja ruim pra você. Existem muitas técnicas de estudo por aí, e a melhor delas depende de pessoa pra pessoa. Por causa disso, provavelmente tem bastante coisa aqui que só funcionou pra mim e que pra você não vai funcionar.
+- pra medir o seu conhecimento, nota de prova não é nada. As provas da escola medem a sua memória de curto prazo. Não adianta tirar 10 se você esquecer tudo 2 semanas depois e nunca mais estudar. Nota de simulado é muito melhor em medir seu conhecimento, especialmente mais perto do fim do ano.
