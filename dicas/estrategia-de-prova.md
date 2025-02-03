@@ -14,5 +14,6 @@ Agora imagine que você marque um item a mais. Se esse item extra estiver certo,
 Agora, assumindo que você já tem certeza que não zerou e ainda tem a liberdade de marcar mais um item que você está em dúvida, uma coisa que você já deve ter ouvido é "na dúvida não marca". Isso tá completamente errado. Pra julgar se você marca ou não, primeiro pensa se você vai zerar se tentar marcar o item e ele estiver errado. Se for zerar, hesite mais antes de marcar. Só marque se tiver 80-90% de certeza. Se não for possível zerar, vale a pena assinalar se você acha que a chance de estar certo é acima de 50%. Ou seja, **se e apenas se for impossível zerar**, qualquer indício que o item tá certo (mesmo que seja pura intuição) já deve ser o bastante pra marcar.
 ## dicas mais específicas do somatório
 algumas estratégias pra somar os itens mais rápido:
-- se todos itens antes do item X estiverem marcadosa soma deles é X-1. EX: 1+2+4+8=15
+- se todos itens antes do item X estiverem marcados, a soma deles é X-1. EX: 1+2+4+8=15
 - se dois itens estiverem marcados e tiver exatamente 1 item entre eles, a soma desses dois itens é um múltiplo de 10, exceto pelo caso 1+4=5. EX: 2+8=10; 4+16=20; 8+32=40
+- não se limite a usar apenas um truque. EX. 1+2+4+16+64 = 1+2+4 + 16+64 = 7+80 = 87
