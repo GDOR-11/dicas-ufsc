@@ -3,6 +3,15 @@
 - a nota do somatório é a quantidade de itens que você acertou (inclusive os errados que você não assinalou!) dividido pelo total de itens
 
 é importante que você entenda muito bem como o somatório funciona, pq daí vc não tem q ficar decorando conselhos aleatórios que as vezes tão até errados.
+
+seguem alguns exemplos:
+
+questão vai até a 64; gabarito: 2+4; sua resposta: 2+4+16;  
+como 2 certas foram marcadas e 1 errada foi marcada, não vai zerar a questão.  
+dos 7 itens, você só errou 1 (o 16), e sua nota vai ser 6/7≈0.86
+
+questão vai até a 32; gabarito: 1+8+16; sua resposta: 8+32;  
+como 1 certa foi marcada e 1 errada foi marcada, você zera essa questão por não marcar mais certas que erradas
 ### consequências
 o seu primeiro objetivo é não zerar, e é daqui que vem a regra de na dúvida marcar uma quantidade ímpar de itens. Pra entender pq, veja os seguinte casos (vou usar 2 itens como exemplo mas tbm vale pra 4 e 6):  
 A. acertou 2 de 2 itens assinalados (não zerou)  
