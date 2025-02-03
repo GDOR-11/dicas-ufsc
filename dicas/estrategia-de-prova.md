@@ -17,3 +17,6 @@ algumas estratégias pra somar os itens mais rápido:
 - se todos itens antes do item X estiverem marcados, a soma deles é X-1. EX: 1+2+4+8=15
 - se dois itens estiverem marcados e tiver exatamente 1 item entre eles, a soma desses dois itens é um múltiplo de 10, exceto pelo caso 1+4=5. EX: 2+8=10; 4+16=20; 8+32=40
 - não se limite a usar apenas um truque. EX. 1+2+4+16+64 = 1+2+4 + 16+64 = 7+80 = 87
+
+## dicas para o dia da prova
+- o seu estado emocional importa muito na hora de fazer a prova. Quando eu tava fazendo simulados no catarinense, eu conseguia mais ou menos 6° ou 7° lugar em média, pq eu tava sob a pressão de conseguir um resultado bom no top 10. Já quando eu fui fazer o vestibular real da UFSC, eu tava mais tranquilo pq sabia q com a minha performance nos simulados da escola eu passava fácil. Fazendo a prova mais tranquilo, eu consegui 8° lugar geral e 1° lugar dentre os alunos do catarinense.
