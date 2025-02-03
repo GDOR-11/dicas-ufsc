@@ -8,7 +8,7 @@ seguem alguns exemplos:
 
 questão vai até a 64; gabarito: 2+4; sua resposta: 2+4+16;  
 como 2 certas foram marcadas e 1 errada foi marcada, não vai zerar a questão.  
-dos 7 itens, você só errou 1 (o 16), e sua nota vai ser 6/7≈0.86
+dos 7 itens, você só errou 1 (o 16), então sua nota vai ser 6/7≈0.86
 
 questão vai até a 32; gabarito: 1+8+16; sua resposta: 8+32;  
 como 1 certa foi marcada e 1 errada foi marcada, você zera essa questão por não marcar mais certas que erradas
